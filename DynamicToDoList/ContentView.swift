@@ -1,7 +1,6 @@
 //
 //  ContentView.swift
 //  DynamicToDoList
-//
 //  Created by Dennis Kikendall on 6/16/22.
 //
 
